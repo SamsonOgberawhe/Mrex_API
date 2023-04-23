@@ -1,4 +1,4 @@
-package com.mrex.mrexapi.utils;
+package com.mrex.mrexapi.utils.constants;
 
 public interface ResponseCodes {
     String SUCCESS_STATUS = "SUCCESS";
